@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Growing as a QA Engineer
-- 🎓 I’m currently a Masters student majoring in Computational Science
+- 🎓 Masters graduate majoring in Computational Sciences
 - ✉️ How to reach me: deepeshthekop8@gmail.com
 - ⚡ Fun fact: I love playing ⚽️,  🎸 and 🎮
