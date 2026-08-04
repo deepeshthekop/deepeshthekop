@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 - 🌱 Growing as a QA Engineer
 - 🎓 Masters graduate majoring in Computational Sciences
-- ✉️ How to reach me: deepeshthekop8@gmail.com
+- ✉️ How to reach me: deepesh.subedi.96@gmail.com
 - ⚡ Fun fact: I love playing ⚽️,  🎸 and 🎮
